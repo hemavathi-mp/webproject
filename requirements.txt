@@ -1,0 +1,6 @@
+django
+python3
+djangorestframework-simplejwt
+channels
+pandas
+numpy
